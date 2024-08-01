@@ -198,12 +198,12 @@ inputCity.addEventListener('keydown', (event) => {
 
 
 const backgroundUrl ={
-  2: "./asset/thunderstrom.jpg",
-  3: "./asset/drizzle.jpg",
-  5: "./asset/rain.jpg",
-  6: "./asset/snow.jpg",
-  7: "./asset/haze.jpg",
-  8: "./asset/clear.jpg"
+  2: "thunderstrom.jpg",
+  3: "drizzle.jpg",
+  5: "rain.jpg",
+  6: "snow.jpg",
+  7: "haze.jpg",
+  8: "clear.jpg"
 };
  
 function setWeatherBackground(weatherId) {
